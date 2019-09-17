@@ -17,124 +17,90 @@
 <body background="imagenes/fondov.jpg">
 
 <?php include('includes/menuPublico.php') ?>
-    <!-- Header Carousel -->
-    <header id="myCarousel" class="carousel slide">
-        <!-- Indicators -->
-        <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-            <li data-target="#myCarousel" data-slide-to="3"></li>
-        </ol>
-
-        <!-- Wrapper for slides -->
-        <div class="carousel-inner">
-            <div class="item active">
-                <div class="fill" style="background-image:url('imagenes/baner0.png');"></div>
-                <div class="carousel-caption">
-                </div>
-            </div>
-            <div class="item">
-                <div class="fill" style="background-image:url('imagenes/baner3.png');"></div>
-                <div class="carousel-caption">
-                </div>
-            </div>
-            <div class="item">
-                <div class="fill" style="background-image:url('imagenes/baner1.jpg');"></div>
-                <div class="carousel-caption">
-                </div>
-            </div>
-            <div class="item">
-                <div class="fill" style="background-image:url('imagenes/baner2.jpg');"></div>
-                <div class="carousel-caption">
-                </div>
-            </div>
-        </div>
-
-        <!-- Controls -->
-        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-            <span class="icon-prev"></span>
-        </a>
-        <a class="right carousel-control" href="#myCarousel" data-slide="next">
-            <span class="icon-next"></span>
-        </a>
+    
+       
+      
     </header>
 
     <!-- Page Content -->
     <div class="container">
 
         <!-- Marketing Icons Section -->
+        <center>
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">
+                <h1 class="page-header" style="color:white">
                      Sistema Gestor de Cursos (SIGC)
                 </h1>
             </div>
-            <div class="col-lg-12">
+            <div class="col-lg-12" style="color:white">
                 <p>
-                     Bienvenidos al Sistema de Sistema Gestor de Cursos (SIGC)
+                <h2>
+                 Bienvenidos al Sistema de Sistema Gestor de Cursos (SIGC)
+                </h2>    
                 <p>
                 <br>
             </div>
              <div class="row">
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                        <img src="imagenes/profesores.png">
+                        <img Width="150" Height="150" src="imagenes/profesor.png">
                     </div>
                     <div class="panel-body">
                         <h4>Docentes</h4>
-                        <p>Esta seccion es solo para los docentes en la cual pueden asignar tareas, recibirlas y asignarle el puntaje correspondiente, de igual forma podra subir el material de las clases que impartio anteriormente en el aula.</p>
+                        <p>Esta seccion es solo para los docentes.</p>
                         <a href="index2.php" class="btn btn-primary"><i class="glyphicon glyphicon-download-alt"></i> Entrar</a>
                     </div>
                 </div>
             </div>
-             <div class="col-md-3 col-sm-6">
+             <div class="col-md-4 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                        <img src="imagenes/estudiantes.png">
+                        <img  Width="150" Height="150" src="imagenes/estudiantee.png">
                     </div>
                     <div class="panel-body">
                         <h4>Estudiantes</h4>
-                        <p>Esta seccion es solo para los estudiantes registrados en la cual pueden subir las tareas asignadas de los docentes, recibirlas y ver el puntaje que se le asigno, ademas pueden ver y descargar material didactico</p>
+                        <p>Esta seccion es solo para los estudiantes .</p>
                         <a href="index2.php" class="btn btn-primary"><i class="glyphicon glyphicon-download-alt"></i> Entrar</a>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <div class="col-md-4 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                        <img src="imagenes/admin.png">
+                        <img Width="150" Height="150" src="imagenes/administrador.png">
                     </div>
                     <div class="panel-body">
                         <h4>Administrador</h4>
-                        <p>Esta seccion es solo para el administrador del SIAD, este es el encargado de administrar y supervisar todas las actividades de todos los usuarios (estudiantes y docentes) y lo relacionado con la parte academica.</p>
+                        <p>Esta seccion es solo para el administrador del SIGC.</p>
                         <a href="index2.php" class="btn btn-primary"> <i class="glyphicon glyphicon-download-alt"></i> Entrar</a>
                     </div>
                 </div>
             </div>          
         </div>
         </div>
+        </center>
         <!-- /.row -->
         <!-- Features Section -->
         <div class="row">
-            <div class="col-lg-12">
-                <h2 class="page-header">Que puedes hacer con el SIAD</h2>
+            <div class="col-lg-12" style="color:white">
+                <h2 class="page-header">Que puedes hacer con el SIGC</h2>
             </div>
-            <div class="col-md-6">
-                <p>Con el sistema informatico de administracion docente, puedes realizar todas las actividades necesarias que faciliten el manejo del area academica del Programa UNI Juigalpa, entre algunas de las actividades tenemos:</p>
+            <div class="col-md-6" style="color:white">
+                <p>Con el sistema informatico de administracion docente, puedes realizar todas las actividades necesarias que faciliten el manejo del area academica del bachillerato Profesor Porfirio O. Morales, entre algunas de las actividades tenemos:</p>
                 <ul>
                     <li><strong>Administracion de Docentes</strong></li>
                     <li><strong>Administracion de Estudiantes</strong></li>
                     <li><strong>Inscripcion de Asignaturas</strong></li>
                     <li><strong>Facilitar las evaluaciones</strong></li>
-                    <li><strong>Administrar las tareas de los estudiantes y evaluarlas</strong></li>
-                    <li><strong>Realizacion de Reportes Estadisticos</strong></li>
+                    <li><strong>Administrar las calificaciones de los estudiantes </strong></li>
+                    <li><strong>Consulta de calificaciones</strong></li>
                 </ul>
                 <p>.</p>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive img-circle" src="imagenes/students.jpg" width="400" height="250"  alt="">
+                <img class="img-responsive img-circle" src="imagenes/estudiantes.jpg" width="400" height="250"  alt="">
             </div>
         </div>
         <!-- /.row -->
@@ -144,9 +110,6 @@
      <script src="js/back-to-top.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script>
-    $('.carousel').carousel({
-        interval: 5000 //changes the speed
-    })
     </script>
     
 

@@ -49,7 +49,7 @@
          <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                          <a class="fancybox" href="imagenes/f1b.jpg" data-fancybox-group="gallery" title="Smartphone Samsung N7889"><img class="fancyResponsive" src="imagenes/f1s.jpg" alt="" /></a>
+                          <a class="fancybox" href="imagenes/baner1.jpg" data-fancybox-group="gallery" title="Smartphone Samsung N7889"><img class="fancyResponsive" src="imagenes/baner1.jpg" alt="" /></a>
                     </div>
                     <div class="panel-body">
                         <h4>Imagen One</h4>
@@ -62,7 +62,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                             <a class="fancybox" href="imagenes/f4b.jpg" data-fancybox-group="gallery" title="Celular Chino wiko"><img class="fancyResponsive" src="imagenes/f4s.jpg" alt="" /></a>
+                             <a class="fancybox" href="imagenes/baner11.jpg" data-fancybox-group="gallery" title="Celular Chino wiko"><img class="fancyResponsive" src="imagenes/baner11.jpg" alt="" Width="200" Height="200"/></a>
                     </div>
                     <div class="panel-body">
                         <h4>Imagen Four</h4>
@@ -75,7 +75,7 @@
         <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                                   <a class="fancybox" href="imagenes/f5b.jpg" data-fancybox-group="gallery" title="Smartphone Nokia Lumia N70"><img class="fancyResponsive" src="imagenes/f5s.jpg" alt="" /></a>
+                    <a class="fancybox" href="imagenes/baner1.jpg" data-fancybox-group="gallery" title="Smartphone Samsung N7889"><img class="fancyResponsive" src="imagenes/baner1.jpg" alt="" /></a>
                     </div>
                     <div class="panel-body">
                         <h4>Imagen One</h4>
@@ -88,7 +88,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                                <a class="fancybox" href="imagenes/f6b.jpg" data-fancybox-group="gallery" title="Celular Alcatel"><img class="fancyResponsive" src="imagenes/f6s.jpg" alt="" /></a>
+                    <a class="fancybox" href="imagenes/baner1.jpg" data-fancybox-group="gallery" title="Smartphone Samsung N7889"><img class="fancyResponsive" src="imagenes/baner1.jpg" alt="" /></a>
                     </div>
                     <div class="panel-body">
                         <h4>Imagen Two</h4>
@@ -104,7 +104,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                                <a class="fancybox" href="imagenes/f7b.jpg" data-fancybox-group="gallery" title="Celular Blackberry Z10"><img class="fancyResponsive" src="imagenes/f7s.jpg" alt="" /></a>
+                    <a class="fancybox" href="imagenes/baner1.jpg" data-fancybox-group="gallery" title="Smartphone Samsung N7889"><img class="fancyResponsive" src="imagenes/baner1.jpg" alt="" /></a>
                     </div>
                     <div class="panel-body">
                         <h4>Imagen Three</h4>
@@ -117,7 +117,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                              <a class="fancybox" href="imagenes/f8b.jpg" data-fancybox-group="gallery" title="Celular Nokia Asha"><img class="fancyResponsive" src="imagenes/f8s.jpg" alt="" /></a>
+                    <a class="fancybox" href="imagenes/baner1.jpg" data-fancybox-group="gallery" title="Smartphone Samsung N7889"><img class="fancyResponsive" src="imagenes/baner1.jpg" alt="" /></a>
                     </div>
                     <div class="panel-body">
                         <h4>Imagen Four</h4>
@@ -130,7 +130,7 @@
         <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                            <a class="fancybox" href="imagenes/f9b.jpg" data-fancybox-group="gallery" title="Smartphone LG Optimus L9"><img class="fancyResponsive" src="imagenes/f9s.jpg" alt="" /></a>
+                    <a class="fancybox" href="imagenes/baner1.jpg" data-fancybox-group="gallery" title="Smartphone Samsung N7889"><img class="fancyResponsive" src="imagenes/baner1.jpg" alt="" /></a>
                     </div>
                     <div class="panel-body">
                         <h4>Imagen One</h4>
@@ -143,7 +143,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                          <a class="fancybox" href="imagenes/f10b.jpg" data-fancybox-group="gallery" title="Smartphone Samsung Galaxy"><img class="fancyResponsive" src="imagenes/f10s.jpg" alt="" /></a>
+                    <a class="fancybox" href="imagenes/baner1.jpg" data-fancybox-group="gallery" title="Smartphone Samsung N7889"><img class="fancyResponsive" src="imagenes/baner1.jpg" alt="" /></a>
                     </div>
                     <div class="panel-body">
                         <h4>Imagen Two</h4>

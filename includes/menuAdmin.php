@@ -11,11 +11,14 @@
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                            <li>
-                                <a href="../../registroDocentes.php"> <i class="glyphicon glyphicon-edit"></i> Profesores</a>
+                             <li>
+                                <a href="user.php"> <i class="glyphicon glyphicon-user"></i> Usuarios</a>
                             </li>
                             <li>
-                                <a href="../../registro.php"> <i class="glyphicon glyphicon-envelope">  </i> Alumnos</a>
+                                <a href="../../registroDocentes.php"> <i class="glyphicon glyphicon-user"></i> Profesores</a>
+                            </li>
+                            <li>
+                                <a href="../../registro.php"> <i class="glyphicon glyphicon-user">  </i> Alumnos</a>
                             </li>
                             <li>
                                 <a href="portfolio-3-col.html"> <i class="glyphicon glyphicon-folder-open"></i> Roles</a>

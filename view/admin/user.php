@@ -37,7 +37,7 @@
     <script src="../../js/bootstrap.min.js"></script>
     <script src="../../estudiantes/myjava.js"></script>
   </head>
-  <body>
+  <body >
   <br>
   <div class="container">
             <div class="row">
@@ -50,9 +50,9 @@
                      
              </div>
 
-             
+             Hola Administrador <?php echo ucfirst($_SESSION['nombre']); ?>
     <a href="../../controller/cerrarSesion.php">
-    <img  align="right" src="../../imagenes/sepescudo.png"  Width="180" Height="80"  >
+    <img  align="right" src="../../imagenes/baner1.jpg"  Width="80" Height="80"  >
     </a>
 
             </div>
@@ -75,8 +75,10 @@ include ('../../includes/menuAdmin.php');
         <div class="row">
             <div class="col-lg-12">
             <div class="col-md-3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="../../imagenes/admin.png" width="100" height="100"></div>
-             <div class="col-md-9">         
-                <h1 class="page-header">Administración del Sitio  : <?php echo ucfirst($_SESSION['nombre']); ?></h1>        
+             <div class="col-md-9">      
+             <center>
+             <h1 class="page-header">Administracion de Usuarios</h1>        
+             </center>   
              </div>                 
             </div>
         </div>
@@ -89,8 +91,24 @@ include ('../../includes/menuAdmin.php');
              ?>
             <!-- Content Column -->
             <div class="col-md-9">
-                <h2>Pagina Principal</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, et temporibus, facere perferendis veniam beatae non debitis, numquam blanditiis necessitatibus vel mollitia dolorum laudantium, voluptate dolores iure maxime ducimus fugit.</p>
+            <div class="content"  style=" background-color: #ffffff">
+          <br><br>
+
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+         <a href="../../view/admin/usuario_alumno/usuario_alumno.php" type="button" class="btn btn-success btn-lg">
+         <span class="fas fa-user"></span>
+         <h2 style="color:white" style="text-align: center" class="title">Alumno</h2></a>    
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="usuario_docente/usuario_docente.php" type="button" class="btn btn-success btn-lg">
+         <span class="fas fa-users"></span>
+         <h2 style="color:white" style="text-align: center" class="title">Docentes</h2></a>
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="usuario_admin/index_usuario.php" type="button" class="btn btn-success btn-lg">
+         <span class="fas fa-edit"></span>
+         <h2 style="color:white" style="text-align: center" class="title">Administrador</h2></a>   
+         <br><br>   <br>
+
+</div>
             </div>
         </div>
         <!-- /.row -->
